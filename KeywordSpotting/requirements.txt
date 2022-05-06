@@ -1,0 +1,9 @@
+certifi==2019.11.28
+flashtext==2.7
+wincertstore==0.2
+gtts
+flask
+flask-cors
+SpeechRecognition
+winspeech
+translate
